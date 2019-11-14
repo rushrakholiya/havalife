@@ -1,0 +1,32 @@
+/* CSS Document */
+
+.newstitle {
+    float: left;
+    text-align: center;
+    width: 100%;
+    margin-top: 37px;
+    margin-bottom: 10px;
+    
+}
+
+.newstitle h2 {
+  
+    border-bottom: 1px solid;
+    width: auto;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+}
+
+
+.newstitle1 h1 {
+    font-family: 'MyriadPro-Semibold';
+    font-size: 22px;
+}
+
+.newstitle1 p{
+	 font-family: 'MyriadPro-Regular';
+	 font-size: 22px;
+
+}

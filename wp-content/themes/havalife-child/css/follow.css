@@ -1,0 +1,175 @@
+@charset "utf-8";
+/* CSS Document */
+
+.followmain2 {
+    padding-top: 80px;
+}
+
+.footext {
+    color: black;
+}
+.main3 {
+    background-color: #282828;
+    margin-top: 15px;
+}
+
+.main4 {
+    background-color: #282828;
+    margin-top: 15px;
+    width: 100%;
+   color:#fff;
+}
+
+.ww .col-md-12.text-left {
+    font-weight: bold;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+.ww p.email {
+    float: left;
+    margin: auto;
+    width: auto;
+    padding-left: 20px;
+}
+
+img.img-responsive.foot {
+    width: 45%;
+    margin-bottom: 10px;
+    float: right;
+    margin-right: 30px;
+}
+
+.ftext {
+    font-size: 60px;
+    font-weight: bold;
+    margin: -15px;
+    }
+
+    .fotext {
+    margin: 20px;
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: -11px;
+}
+
+.iconf ul {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    list-style: outside none none;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.iconf li {
+    float: left;
+}
+
+.iconf {
+    width: 100%;
+    float: left;
+    margin-left: -45px;
+}
+
+h2.Connected {
+    font-size: 53px;
+    font-weight: 700;
+    font-family: Impact;
+}
+
+.yt i.fa.fa-youtube {
+    display: table;
+    margin: auto;
+    color: black;
+    padding-top: 50px;
+    font-size: 80px;
+}
+
+button.btn.btn-default.followme {
+    color: #000;
+    background-color: #fff0;
+    border-color: #e1e1e1;
+    padding-left: 56px;
+    padding-right: 56px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 48px;
+    font-family: arial;
+    font-size: 22px;
+    border-radius: 40px;
+    text-align: center;
+    display: table;
+    margin: auto;
+    font-weight: 700;
+    margin-top: 75px;
+    border: 3px solid;
+}
+
+button.btn.btn-default.subme {
+    color: #000;
+    background-color: #fff0;
+    border-color: #e1e1e1;
+    padding-left: 56px;
+    padding-right: 56px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 48px;
+    font-family: arial;
+    font-size: 22px;
+    border-radius: 40px;
+    text-align: center;
+    display: table;
+    margin: auto;
+    font-weight: 700;
+    margin-top: 75px;
+    border: 3px solid;
+}
+
+.followicon .fa {
+    width: 100%;
+    color: black;
+    font-size: 51px;
+    font-weight: 500;
+    margin: 15px;
+    text-align: center;
+}
+.footext i{color: #000!important}
+   
+
+
+img.img-responsive.foot {
+    width: 65%;
+    margin-bottom: 10px;
+}
+
+.email {
+    width: 100%;
+    float: left;
+}
+
+.up {
+    width: 100%;
+    float: left;
+}
+.up p{padding-top: 42px;
+}
+
+.up i.fa.fa-envelope {
+    float: left;
+}
+.down {
+    width: 100%;
+    float: left;
+}
+
+.down i.fa.fa-phone {
+    float: left;
+}
+
+.down p {
+    padding-top: 31px;
+}
+.footerr{background-color: grey}
+.container{margin: auto; width: 1170px}

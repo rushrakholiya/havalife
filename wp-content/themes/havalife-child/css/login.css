@@ -1,0 +1,27 @@
+button.btn.btn-default.sign {
+    color: #000;
+    background-color: #38CB3B;
+    border-color: #e1e1e1;
+    border-radius: 10px 10px 10px 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 48px;
+    float: right;    color: #fff;
+}
+
+.login_form {
+    width: 600px;
+    margin: auto;
+    margin-top: 70px;
+}
+
+.login_form {
+    width: 600px;
+    margin: auto;
+    margin-top: 160px;
+    border: 1px solid;
+    padding: 70px;
+    border-radius: 10px;
+}
